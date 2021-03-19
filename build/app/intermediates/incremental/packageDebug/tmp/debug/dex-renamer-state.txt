@@ -1,0 +1,4 @@
+#Fri Mar 19 15:16:12 IST 2021
+base.0=/home/harsh/Documents/Fluuter/animation_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
